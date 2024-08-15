@@ -79,6 +79,9 @@ p {
 
 .task-wrapper p {
   cursor: pointer;
+  display: flex;
+  flex: 1;
+  user-select: none;
 }
 
 .delete {
